@@ -107,7 +107,7 @@ My engineering approach emphasizes:
 Full\-Stack Software Engineer
 
 [![Email](https://img.shields.io/badge/Email-zaki.muhamad%40zackpratama.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaki.muhamad@zackpratama.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ZAKI-MUHAMAD-FADILAH)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/zackpratamaa)
 
 </div>
 
