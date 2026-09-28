@@ -6,8 +6,8 @@
 
 Building reliable digital products across frontend, backend, cloud, automation, and platform engineering\.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ZAKI-MUHAMAD-FADILAH&label=PROFILE%20VIEWS&style=for-the-badge)](https://github.com/ZAKI-MUHAMAD-FADILAH)
-[![GitHub](https://img.shields.io/badge/GitHub-ZAKI--MUHAMAD--FADILAH-181717?style=for-the-badge&logo=github)](https://github.com/ZAKI-MUHAMAD-FADILAH)
+[![Profile Views](https://komarev.com/ghpvc/?username=zackpratamaa&label=PROFILE%20VIEWS&style=for-the-badge)](https://github.com/zackpratamaa)
+[![GitHub](https://img.shields.io/badge/GitHub-ZAKI--MUHAMAD--FADILAH-181717?style=for-the-badge&logo=github)](https://github.com/zackpratamaa)
 
 </div>
 
@@ -67,22 +67,22 @@ My engineering approach emphasizes:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ZAKI-MUHAMAD-FADILAH/ZAKI-MUHAMAD-FADILAH/main/profile/stats-dark.svg"
+    srcset="https://raw.githubusercontent.com/zackpratamaa/zackpratamaa/main/profile/stats-dark.svg"
   />
   <img
     width="410"
-    src="https://raw.githubusercontent.com/ZAKI-MUHAMAD-FADILAH/ZAKI-MUHAMAD-FADILAH/main/profile/stats.svg"
+    src="https://raw.githubusercontent.com//zackpratamaa/zackpratamaa/main/profile/stats.svg"
     alt="GitHub statistics"
   />
 </picture>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ZAKI-MUHAMAD-FADILAH/ZAKI-MUHAMAD-FADILAH/main/profile/top-langs-dark.svg"
+    srcset="https://raw.githubusercontent.com//zackpratamaa/zackpratamaa/main/profile/top-langs-dark.svg"
   />
   <img
     width="410"
-    src="https://raw.githubusercontent.com/ZAKI-MUHAMAD-FADILAH/ZAKI-MUHAMAD-FADILAH/main/profile/top-langs.svg"
+    src="https://raw.githubusercontent.com//zackpratamaa/zackpratamaa/main/profile/top-langs.svg"
     alt="Language distribution"
   />
 </picture>
@@ -91,7 +91,7 @@ My engineering approach emphasizes:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ZAKI-MUHAMAD-FADILAH&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=zackpratamaa&hide_border=true" alt="GitHub streak" />
 
 </div>
 
