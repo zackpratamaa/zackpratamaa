@@ -15,7 +15,7 @@ Building reliable digital products across frontend, backend, cloud, automation, 
 
 ## Engineering Profile
 
-I am a **Full\-Stack Software Engineer** focused on designing and shipping production\-ready web applications, internal platforms, SaaS products, APIs, automation workflows, and cloud\-connected systems\.
+I am a **Software Engineer** focused on designing and shipping production\-ready web applications, internal platforms, SaaS products, APIs, automation workflows, and cloud\-connected systems\.
 
 My engineering approach emphasizes:
 
